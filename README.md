@@ -32,7 +32,7 @@ I have made a book format output by using a generated outputs of the *LogicText*
 
 ### 1. Preparing Data
 
-I firstly train GPT-2 is the OpenAI's generative machine learning (NLP) model. Training data is extracted using my other repository, [Gutenberg by Topic](https://github.com/cgokce/gutenberg_by_topic), with the *philosophy* keyword.
+Training uses the GPT-2, OpenAI's generative machine learning (NLP) model, which needs a training corpus data. Training data is extracted using my other repository, [Gutenberg by Topic](https://github.com/cgokce/gutenberg_by_topic), with the *philosophy* keyword.
 
 If you want to train the model on your corpus, you can use the above repository to generate a book corpus of another genre or topic. 
 
